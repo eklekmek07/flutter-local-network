@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  lan_scanner: ^4.0.0+1
+  network_info_plus: ^4.0.2
 
 dev_dependencies:
   flutter_test:
